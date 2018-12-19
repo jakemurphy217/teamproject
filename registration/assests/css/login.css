@@ -1,0 +1,22 @@
+body{
+    background-image:url(kitchen.jpg);
+    background-size:cover;
+    background-position: center;
+}
+.login-box{
+    max-width: 700px;
+    float:none;
+    margin:150px auto;
+    color:snow;
+}
+
+.login-left{
+    background: rgba(211,211,211,0.5);
+    padding:30px;
+    
+}
+.login-right{
+    background: rgba(211,211,211,0.5);
+    padding:30px;
+    background: cover;
+}

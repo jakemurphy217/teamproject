@@ -1,0 +1,82 @@
+.jumbotron{
+    background-image: url('https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/food/hero-and-hub/food/food-hero-1260x600.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 200px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    color: aliceblue;
+
+}
+body{
+    text-align: center;
+    border: 3px ;
+    margin: 10px;
+    background-color: rgb(219, 255, 243)
+}
+
+.my-container{
+
+}
+
+.recipe-list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border: 2px solid aquamarine;
+
+}
+
+.rounded-circle {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+recipe-item{
+
+}
+
+#food {
+    max-width: 300px;
+    max-height: 250px;
+    border: 5px solid black;
+    border-radius: 30px;
+
+}
+
+.my-row{
+
+}
+.Search{
+
+}
+
+}
+.Search-Box{
+
+}
+.post-id-input{
+    text-align: center;
+    display:inline-block;
+
+}
+
+.form{
+    display: inline-block;
+
+}
+#pic {
+    text-align: center;
+    max-height: 500px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    background: #333;
+    min-height: 30px;
+    color: #fff;
+    text-align: center;
+}
